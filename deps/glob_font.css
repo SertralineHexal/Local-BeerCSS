@@ -1,0 +1,14 @@
+@font-face {
+    font-family: material-symbols-outlined;
+    src: url("/deps/material-symbols-outlined.woff2");
+}
+
+@font-face {
+    font-family: material-symbols-rounded;
+    src: url("/deps/material-symbols-rounded.woff2");
+}
+
+@font-face {
+    font-family: material-symbols-sharp;
+    src: url("/deps/material-symbols-sharp.woff2");
+}
